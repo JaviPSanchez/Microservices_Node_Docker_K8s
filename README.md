@@ -3,7 +3,7 @@
 <div>
 <p align="center">
   <a href=https://javips.digital>
-    <img src="./images/microservices.png" alt="microservicios" width="100%">
+    <img src="./images/diagram.png" alt="microservicios" width="100%">
   </a>
 </p>
 </div>
