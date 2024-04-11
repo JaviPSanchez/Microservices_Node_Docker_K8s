@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+html,
+body,
+#root {
+  font-size: 62.5%; /*1 rem = 10px; 10px/16px = 0.625 = 62.5% (browser default) = 62.5*/
+  width: 100vw;
+  height: 100vh;
+  user-select: none;
+  overflow-x: hidden;
+}
+.light {
+  background-color: #ffffff;
+}
+
+.dark {
+  background-color: #1a232e;
+  background-image: radial-gradient(at 25% 12%, #363638 0px, transparent 50%),
+    radial-gradient(at 80% 47%, rgb(17, 17, 17) 0px, transparent 50%),
+    radial-gradient(at 29% 29%, rgb(43, 40, 40) 0px, transparent 50%),
+    radial-gradient(at 95% 54%, rgb(10, 14, 80) 0px, transparent 50%);
+}

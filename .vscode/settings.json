@@ -1,0 +1,104 @@
+{
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit",
+    "source.addMissingImports": "explicit"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "notebook.cellToolbarLocation": {
+    "default": "right",
+    "jupyter-notebook": "right"
+  },
+  "explorer.confirmDelete": false,
+  "liveServer.settings.CustomBrowser": "chrome",
+  "jupyter.askForKernelRestart": false,
+  "indentRainbow.colorOnWhiteSpaceOnly": true,
+  "editor.suggest.showMethods": true,
+  "editor.suggest.preview": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.snippetSuggestions": "top",
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[python]": {
+    "editor.formatOnType": true
+  },
+  "inlineFold.autoFold": false,
+  "editor.linkedEditing": true,
+  "chatgpt.lang": "en",
+  "extensions.ignoreRecommendations": true,
+  "editor.unicodeHighlight.allowedCharacters": {
+    "️": true
+  },
+  "files.exclude": {
+    "**/.git": false
+  },
+  "glassit.alpha": 220,
+  "workbench.colorTheme": "Monokai",
+  "workbench.colorCustomizations": {
+    "[Material Theme Darker]": {
+      "activityBarBadge.background": "#2979FF",
+      "activityBar.activeBorder": "#2979FF",
+      "list.activeSelectionForeground": "#2979FF",
+      "list.inactiveSelectionForeground": "#2979FF",
+      "list.highlightForeground": "#2979FF",
+      "scrollbarSlider.activeBackground": "#2979FF50",
+      "editorSuggestWidget.highlightForeground": "#2979FF",
+      "textLink.foreground": "#2979FF",
+      "progressBar.background": "#2979FF",
+      "pickerGroup.foreground": "#2979FF",
+      "tab.activeBorder": "#2979FF",
+      "notificationLink.foreground": "#2979FF",
+      "editorWidget.resizeBorder": "#2979FF",
+      "editorWidget.border": "#2979FF",
+      "settings.modifiedItemIndicator": "#2979FF",
+      "settings.headerForeground": "#2979FF",
+      "panelTitle.activeBorder": "#2979FF",
+      "breadcrumb.activeSelectionForeground": "#2979FF",
+      "menu.selectionForeground": "#2979FF",
+      "menubar.selectionForeground": "#2979FF",
+      "editor.findMatchBorder": "#2979FF",
+      "selection.background": "#2979FF40",
+      "statusBarItem.remoteBackground": "#2979FF"
+    },
+    "[Material Theme]": {
+      "activityBarBadge.background": "#FFA000",
+      "activityBar.activeBorder": "#FFA000",
+      "list.activeSelectionForeground": "#FFA000",
+      "list.inactiveSelectionForeground": "#FFA000",
+      "list.highlightForeground": "#FFA000",
+      "scrollbarSlider.activeBackground": "#FFA00050",
+      "editorSuggestWidget.highlightForeground": "#FFA000",
+      "textLink.foreground": "#FFA000",
+      "progressBar.background": "#FFA000",
+      "pickerGroup.foreground": "#FFA000",
+      "tab.activeBorder": "#FFA000",
+      "notificationLink.foreground": "#FFA000",
+      "editorWidget.resizeBorder": "#FFA000",
+      "editorWidget.border": "#FFA000",
+      "settings.modifiedItemIndicator": "#FFA000",
+      "settings.headerForeground": "#FFA000",
+      "panelTitle.activeBorder": "#FFA000",
+      "breadcrumb.activeSelectionForeground": "#FFA000",
+      "menu.selectionForeground": "#FFA000",
+      "menubar.selectionForeground": "#FFA000",
+      "editor.findMatchBorder": "#FFA000",
+      "selection.background": "#FFA00040",
+      "statusBarItem.remoteBackground": "#FFA000"
+    }
+  },
+  "materialTheme.accent": "Yellow",
+  "workbench.startupEditor": "none",
+  "material-icon-theme.files.color": "#90a4ae",
+  "workbench.settings.applyToAllProfiles": ["editor.fontFamily"],
+  "code-runner.runInTerminal": true,
+  "editor.fontFamily": "'Monaspace Neon', monospace",
+  "editor.fontWeight": "200",
+  "editor.fontSize": 14,
+  "editor.fontLigatures": false
+}
